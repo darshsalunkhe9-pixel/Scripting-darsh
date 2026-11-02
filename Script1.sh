@@ -1,6 +1,5 @@
 echo "We are trying this practical from linux EC2"
 echo "We are from batch-33 and learning git/gihub"
-echo "I am learning github"
 echo "I am learning branching"
 echo "I am learning branching in git and github branching"
-echo " trying something new"git status
+echo " trying something new1"
