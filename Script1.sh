@@ -3,4 +3,4 @@ echo "We are from batch-33 and learning git/gihub"
 echo "I am learning github"
 echo "I am learning branching"
 echo "I am learning branching in git and github branching"
-echo " tring something new"
+echo " trying something new"git status
